@@ -1,0 +1,1 @@
+mongoimport --db learning_mongo --collection tours --jsonArray --file tours.json
