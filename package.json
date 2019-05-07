@@ -1,0 +1,22 @@
+{
+  "name": "mongo-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveMustanski/mongo-basics.git"
+  },
+  "author": "Steve Mustanski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SteveMustanski/mongo-basics/issues"
+  },
+  "homepage": "https://github.com/SteveMustanski/mongo-basics#readme",
+  "dependencies": {
+    "mongodb": "^3.2.3"
+  }
+}
